@@ -1,9 +1,8 @@
-"""
-pattern.py
-author: Thomas Payne
-email: tomkentpayne@hotmail.com
-licence: GPL v2
-"""
+''' Pattern module for knitify '''
+__author__ = 'Thomas Payne'
+__email__ = 'tomkentpayne@hotmail.com'
+__copyright__ = 'Copyright © 2015 Thomas Payne'
+__licence__ = 'GPL v2'
 class Pattern(object):
     """A knitting pattern object generated from a bmp image"""
     def __init__(self):
