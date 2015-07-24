@@ -1,4 +1,4 @@
-""" Generate a pdf knittinf pattern + chart from a bitmap image """
+''' Generate a pdf knittinf pattern + chart from a bitmap image '''
 __author__ = 'Thomas Payne'
 __email__ = 'tomkentpayne@hotmail.com'
 __copyright__ = 'Copyright © 2015 Thomas Payne'
